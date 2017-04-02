@@ -1,5 +1,7 @@
 # VuforiaConnector extension for Paw
 
+![My image](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot.png)
+
 ## About
 
 Use VuforiaConnector to get your raw ImageTargets data from the VWS Api.
