@@ -2,6 +2,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot.png)
 
+
 ## About
 
 Use VuforiaConnector to get your raw ImageTargets data from the VWS Api.
@@ -22,6 +23,7 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
   * **Content-Type**: application/json
 4. Run the request.
 
+
 ### Request Types VWS
 
 * GET https://vws.vuforia.com/targets - Retreive all ImageTarget
@@ -34,9 +36,13 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
 * GET https://vws.vuforia.com/summary - Get a summary of the database
 * GET https://vws.vuforia.com/summary/{id} - Get a summary of an ImageTarget
 
-**PUT** and **POST** require bdoy JSON data:
+
+### Request body JSON
+
+**PUT** and **POST** require body JSON data. Use Paw's *Base64 Encode* encoders for adding *image* and *application_metadata*.
 
 ![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot_json.png?i)
+
 
 ## License
 
