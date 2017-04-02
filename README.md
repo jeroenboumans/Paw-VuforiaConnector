@@ -18,7 +18,7 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
 1. Create a new request and choose **GET** as the request method.
 2. Set the url to the base targets url: **https://vws.vuforia.com/targets**.
 3. Add the following headers:
-  * **Authorization**: Vuforia Authorization (Double click it to fill in the **Access Key** and **Sectet Key**).
+  * **Authorization**: Vuforia Authorization (Double click it to fill in the **Access Key** and **Secret Key**).
   * **Date**: Timestamp RFC 1123/2822
   * **Content-Type**: application/json
 4. Run the request.
