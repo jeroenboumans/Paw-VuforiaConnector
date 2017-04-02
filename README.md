@@ -36,7 +36,7 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
 
 **PUT** and **POST** require bdoy JSON data:
 
-![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot_json.png)
+![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot_json.png?i)
 
 ## License
 
