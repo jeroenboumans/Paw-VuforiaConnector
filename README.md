@@ -1,30 +1,25 @@
-# VuforiaWebServicesConnector extension for Paw
+# VuforiaConnector extension for Paw
 
-## Development
+## About
 
-### Prerequisites
+Use VuforiaConnector to get your raw ImageTargets data from the VWS Api.
 
-```shell
-npm install
-```
 
-### Build
+### Install 
 
-```shell
-npm run build
-```
+You can install VuforiaConnector via Paw's [Dynamic Values extensions page](https://paw.cloud/extensions?extension_type=dynamic_value#).
 
-### Install
 
-```shell
-make install
-```
+### Test - GET all ImageTargets
 
-### Test
+1. Create a new request and choose **GET** as the request method.
+2. Set the url to the base targets url: **https://vws.vuforia.com/targets**.
+3. Add the following headers:
+  * **Authorization**: Vuforia Authorization (Double click it to fill in the **Access Key** and **Sectet Key**).
+  * **Date**: Timestamp RFC 1123/2822
+  * **Content-Type**: application/json
+4. Run the request.
 
-```shell
-npm test
-```
 
 ## License
 
