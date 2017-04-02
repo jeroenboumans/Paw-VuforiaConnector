@@ -1,6 +1,6 @@
 # VuforiaConnector extension for Paw
 
-![My image](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot.png)
 
 ## About
 
@@ -36,15 +36,7 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
 
 **PUT** and **POST** require bdoy JSON data:
 
-```
-{
-  "name": "tuup",
-  "active_flag": true,
-  "width": 100,
-  "image": "",
-  "application_metadata": ""
-}
-```
+![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot_json.png)
 
 ## License
 
