@@ -22,6 +22,17 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
   * **Content-Type**: application/json
 4. Run the request.
 
+### Request Types VWS
+
+* GET https://vws.vuforia.com/targets - Retreive all ImageTarget
+* POST https://vws.vuforia.com/targets - Add new ImageTarget
+* GET https://vws.vuforia.com/targets/{id} - Retreive an ImageTarget
+* GET https://vws.vuforia.com/duplicates/{id} - Retreive all possible duplicates of an ImageTarget
+* PUT https://vws.vuforia.com/targets/{id} - Update a ImageTarget
+* DELETE https://vws.vuforia.com/targets/{id} - Delete an ImageTarget
+
+* GET https://vws.vuforia.com/summary - Get a summary of the database
+* GET https://vws.vuforia.com/summary/{id} - Get a summary of an ImageTarget
 
 ## License
 
