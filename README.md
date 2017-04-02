@@ -34,6 +34,18 @@ You can install VuforiaConnector via Paw's [Dynamic Values extensions page](http
 * GET https://vws.vuforia.com/summary - Get a summary of the database
 * GET https://vws.vuforia.com/summary/{id} - Get a summary of an ImageTarget
 
+**PUT** and **POST** require bdoy JSON data:
+
+```
+{
+  "name": "tuup",
+  "active_flag": true,
+  "width": 100,
+  "image": "",
+  "application_metadata": ""
+}
+```
+
 ## License
 
 This Paw Extension is released under the [MIT License](LICENSE). Feel free to fork, and modify!
