@@ -10,7 +10,7 @@ Use VuforiaConnector to get your raw ImageTargets data from the VWS Api.
 
 ### Install 
 
-You can install VuforiaConnector via the button below or via Paw's [Dynamic Values extensions page](https://paw.cloud/extensions/VuforiaConnector).
+You can install VuforiaConnector [directly](https://tinyurl.com/ltasvcc) or via the button below or via Paw's [Dynamic Values extensions page](https://paw.cloud/extensions/VuforiaConnector).
 
 
 ### Test - GET all ImageTargets
