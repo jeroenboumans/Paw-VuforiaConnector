@@ -62,8 +62,8 @@ var VuforiaAuthorization = function()
 }
 
 VuforiaAuthorization.identifier = "nl.studionoorderlicht.PawExtensions.VuforiaConnector";
-VuforiaAuthorization.title = "Vuforia Authorization";
-VuforiaAuthorization.help = "https://studionoorderlicht.nl/VuforiaConnector/";
+VuforiaAuthorization.title = "Vuforia Connector";
+VuforiaAuthorization.help = "http://www.studionoorderlicht.nl/portfolio/vuforiaconnector/";
 VuforiaAuthorization.inputs = [
 	DynamicValueInput("server_access_key", "Server Access Key", "String"),
 	DynamicValueInput("server_secret_key", "Server Secret Key", "SecureValue"), 
