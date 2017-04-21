@@ -1,4 +1,5 @@
-# VuforiaConnector extension for Paw
+# VuforiaConnector extension for Paw 
+ ![Packagist](https://img.shields.io/badge/license-MIT-00aaff.svg?style=flat-square) ![Packagist](https://img.shields.io/github/stars/jeroenboumans/Paw-VuforiaConnector.svg?style=flat-square) ![Packagist](https://img.shields.io/github/issues/jeroenboumans/Paw-VuforiaConnector.svg?style=flat-square) 
 
 ![Screenshot](https://raw.githubusercontent.com/jeroenboumans/Paw-VuforiaConnector/master/Screenshot.png)
 
